@@ -11,6 +11,8 @@ namespace Exercise
             Console.WriteLine("Change Test");
 
             Console.WriteLine("I've made a change!!!!");
+
+            Console.WriteLine("I've made a change2!!!!");
         }
     }
 }
