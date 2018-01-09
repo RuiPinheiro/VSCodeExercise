@@ -5,6 +5,6 @@ public class Test{
         }
         set{
             this.name = value;
-        }
+        } 
     }    
 }
