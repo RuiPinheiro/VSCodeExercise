@@ -1,0 +1,8 @@
+C:\Users\ruism\VSCodeExercise\Exercise\bin\Debug\netcoreapp1.1\Exercise.deps.json
+C:\Users\ruism\VSCodeExercise\Exercise\bin\Debug\netcoreapp1.1\Exercise.runtimeconfig.json
+C:\Users\ruism\VSCodeExercise\Exercise\bin\Debug\netcoreapp1.1\Exercise.runtimeconfig.dev.json
+C:\Users\ruism\VSCodeExercise\Exercise\bin\Debug\netcoreapp1.1\Exercise.dll
+C:\Users\ruism\VSCodeExercise\Exercise\bin\Debug\netcoreapp1.1\Exercise.pdb
+C:\Users\ruism\VSCodeExercise\Exercise\obj\Debug\netcoreapp1.1\Exercise.AssemblyInfo.cs
+C:\Users\ruism\VSCodeExercise\Exercise\obj\Debug\netcoreapp1.1\Exercise.dll
+C:\Users\ruism\VSCodeExercise\Exercise\obj\Debug\netcoreapp1.1\Exercise.pdb
